@@ -2,7 +2,7 @@
 title: Goni's blog
 tagline: 'Data Analysis'
 description: 'blog for Data Analysis'
-url: http://dudrnjs1391.github.io
+url: "https://dudrnjs1391.github.io"
 logo: '/public/logo.png'
 encoding: utf-8
 
@@ -50,7 +50,7 @@ tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
 hero:
-  image: https://dudrnjs1391.github.io/public/img/picture.JPG
+  image: "https://dudrnjs1391.github.io/public/img/picture.JPG"
   caption: Original Artwork &copy; Pablo Picasso. Girl before a Mirror. Boisgeloup, March 1932. Oil on canvas
 
 # Puglins
