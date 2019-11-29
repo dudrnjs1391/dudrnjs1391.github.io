@@ -8,14 +8,16 @@ title: About This Blog
 이 블로그는 다음과 같은 내용을 다룰 예정입니다.
 
 <p class="message" style="font-size: 0.9rem; font-weight: 700">
-Machine Learning Algorithm / Data Analysis with R, Python / <br>
-Analysis Environment, OS
+Machine Learning Algorithm <br>
+Data Analysis with R, Python  <br>
+Analysis Environment <br>
+OS & Environment
 </p>
 여러 금융권에서 데이터 분석 프로젝트를 진행하면서 보고<br>
 듣고 이해하고 느낀점을 정리하며 공유해보려고 합니다.<br>
 블로그를 보시고 조언해주시거나 궁금한 점이 있으시면<br>
 연락주시거나, 질문해주시면 감사하겠습니다.<br>
 
-제 CV는 <a href="https://dudrnjs1391.github.io/public/CV.pdf">이곳</a>에서 확인할 수 있습니다. 
+
 
 </div>
