@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About This Blog
+title: About Blog
 ---
 
 <div style="font-size: 0.9rem; font-weight:300; line-height: 1.6rem;">
