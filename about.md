@@ -8,10 +8,10 @@ title: About This Blog
 이 블로그는 다음과 같은 내용을 다룰 예정입니다.
 
 <p class="message" style="font-size: 0.9rem; font-weight: 700">
-Machine Learning Algorithm <br>
-Data Analysis with R, Python  <br>
-Analysis Environment <br>
-OS & Environment
+* Machine Learning Algorithm <br>
+* Data Analysis with R, Python  <br>
+* Analysis Environment <br>
+* OS & Environment
 </p>
 여러 금융권에서 데이터 분석 프로젝트를 진행하면서 보고<br>
 듣고 이해하고 느낀점을 정리하며 공유해보려고 합니다.<br>
