@@ -1,0 +1,53 @@
+# Prologue - 1. Deep Learning Frameworks
+
+## - Deep Learning Frameworks
+
+- Neural Network를 기반으로 하는 Deep Learning 모형들은 점점 그 위상이 높아지고 있다.
+- 이러한 Deep Learning 모형들을 만들기 위한 도구들은 아래와 같이 다양하다.
+
+    ![Prologue%201%20Deep%20Learning%20Frameworks/prologue-1-0.png](Prologue%201%20Deep%20Learning%20Frameworks/prologue-1-0.png)
+
+    우리는 이 중 가장 많이 사용되는 ***Tensorflow***와 ***PyTorch***를 중점적으로 다뤄보자.
+
+    ---
+
+## - Why use TensorFlow?
+
+1. **Data Flow Graph** : Neural Network 구조를 만들고 실행하는 것이 편리 
+2. **Full Services** : Idea 적용 단계부터 Service 단계까지 지원
+3. **Open Source** : 수 많은 Community와 다양하고 빠른 신기술 적용
+
+    ![Prologue%201%20Deep%20Learning%20Frameworks/prologue-1-1.png](Prologue%201%20Deep%20Learning%20Frameworks/prologue-1-1.png)
+
+    TensorFlow와 PyTorch는 꾸준한 사랑을 받고 있다.
+
+4. **Strong Support** : Google Brain Team에서 만들고 지원
+- **TensorFlow 2.0에서 변한 점**
+    - Keras를 이용한 **High level API**로의 탈바꿈
+    - TensorFlow version 1과 호환 가능
+    - 즉시 실행(**Eager Execution**) 지원
+
+        ![Prologue%201%20Deep%20Learning%20Frameworks/prologue-1-2.png](Prologue%201%20Deep%20Learning%20Frameworks/prologue-1-2.png)
+
+        TensoFlow 2.0으로 업그레이드 되면서 기존의 Session으로 실행하는 것보다 간편
+
+---
+
+### -  Why use PyTorch?
+
+1. **Easy to Learn**: - 파이썬과 비슷한 코드 구조
+                        - 이해와 디버깅이 쉬운 간결한 코드로 구성
+                        - Define-by-Run 방식의 구조
+2. **High Speed**: 다른 딥러닝 프레임워크에 비해 빠른 속도
+
+    ![Prologue%201%20Deep%20Learning%20Frameworks/Untitled.png](Prologue%201%20Deep%20Learning%20Frameworks/Untitled.png)
+
+    다른 tool들에 비해 상대적으로 속도가 빠름
+
+3. **Increasing usage**: 점점 증가하고 있는 사용량
+
+![Prologue%201%20Deep%20Learning%20Frameworks/prologue-1-3.png](Prologue%201%20Deep%20Learning%20Frameworks/prologue-1-3.png)
+
+다양한 국제학회에서 PyTorch를 사용한 논문의 수가 증가
+
+- 다음 페이지:
