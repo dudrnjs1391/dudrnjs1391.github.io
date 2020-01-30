@@ -1,3 +1,10 @@
+---
+layout: post
+categories: posts
+title: "Deep Learning Framework"
+tags: [sample post, readability, test, intro]
+---
+
 # Prologue - 1. Deep Learning Frameworks
 
 ## - Deep Learning Frameworks
