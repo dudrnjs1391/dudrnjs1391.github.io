@@ -1,0 +1,5 @@
+1. Contents: _post 폴더 내 저장
+2. 배경 크기 변경 : _scss/component/_hero.scss
+3. 배경사진, email 등 변경: _config.yml
+4. 사진, 이미지 추가 : public 폴더 내 저장
+5. sidebar 변경 : _includes/sidebar.html
