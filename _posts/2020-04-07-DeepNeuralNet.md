@@ -2,7 +2,7 @@
 layout: post
 categories: DeepLearning
 title: "Prologue - 2. What is Neural Network?"
-tags: [Deep Learning, Deep Learning Framework]
+tags: [Deep Learning, Deep Neural Network]
 ---
 
 
