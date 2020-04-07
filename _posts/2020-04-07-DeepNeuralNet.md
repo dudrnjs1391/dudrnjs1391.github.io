@@ -13,8 +13,8 @@ tags: [Deep Learning, Deep Neural Network]
 - ***Neuron***을 통해 받아들여진 여러 정보들은 일련의 처리를 거쳐 
 우리가 본 꽃이 클로버도 국화도 아닌 튤립이라고 인식하게 된다.
 
-    ![Prologue%202%20What%20is%20Neural%20Network/prologue-2-0.png](Prologue%202%20What%20is%20Neural%20Network/prologue-2-0.png)
-
+    
+    <img src="https://github.com/dudrnjs1391/dudrnjs1391.github.io/blob/master/_posts/img/prologue-2-0.png?raw=true" width="350px"/>
     Neural Network Image [processed from pngtree.com](https://pngtree.com/so/%EC%B2%98%EB%A6%AC)
 
 - 뇌에서의 일련의 처리 과정을 시스템적으로 본따 구성한 것이 바로 ***Neural Network***이다.
@@ -25,7 +25,7 @@ tags: [Deep Learning, Deep Neural Network]
 
 - ***Image Classification***
 
-    ![Prologue%202%20What%20is%20Neural%20Network/prologue-2-1.gif](Prologue%202%20What%20is%20Neural%20Network/prologue-2-1.gif)
+    <img src="https://github.com/dudrnjs1391/dudrnjs1391.github.io/blob/master/_posts/img/prologue-2-1.gif?raw=true" width="350px"/>
 
     - **0과 1의 사진 분류해보기**
 
@@ -60,5 +60,13 @@ tags: [Deep Learning, Deep Neural Network]
 - ※ 여러 개의 ***Hidden Layer***를 쌓아 ***Deep***하게 만든 Neural Network를 "***Deep Neural Network***"라고 한다. (a.k.a ***Deep Learning***)
 
 ---
+
+<br>
+
+Authorized by Agilesoda, Goni <br>
+<img src = "https://github.com/dudrnjs1391/dudrnjs1391.github.io/blob/master/_posts/img/0_Agilesoda.png?raw=true" width="100px"/>
+
+
+> 다음 페이지: 
 
 - 다음 강의:
