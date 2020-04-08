@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: Multi Processing
+categories: Multiprocessing
 title: "Multiprocessing"
 tags: [Python, Tokenizing, Multiprocessing]
 ---
