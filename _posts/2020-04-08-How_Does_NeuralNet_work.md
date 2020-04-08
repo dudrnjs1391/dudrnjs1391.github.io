@@ -1,4 +1,10 @@
-# Content - 1. How does Neural Net work?
+---
+layout: post
+categories: DeepLearning
+title: "Content - 1. How does Neural Net work?"
+tags: [Deep Learning, Deep Neural Network]
+---
+
 
 ## - How does Neural Network? - Feed Forward
 
